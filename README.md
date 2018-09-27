@@ -25,6 +25,10 @@
 | 6강. 한 슬라이스에 start, end, stride를 함께 쓰지 말자   | 박민호  | [6강 정리본](./team1/BetterWay6-minhopark.md)  |
 | 7강. map과 filter 대신 리스트 컴프리헨션을 사용하자   | 박민호  | [7강 정리본](./team1/BetterWay7-minhopark.md)  |
 | 8강. 리스트 컴프리헨션에서 표현식을 두 개 넘게 쓰지 말자   | 박민호  | [8강 정리본](./team1/BetterWay8-minhopark.md)  |
+| 13강. try/except/else/finally에서 각 블록의 장점을 이용하자   | 차민철  | [13강 정리본](./team1/BetterWay13-mincheol.md)  |
+| 14강. None을 반환하기보다는 예외를 일으키자   | 차민철  | [14강 정리본](./team1/BetterWay14-mincheol.md)  |
+| 15강. 클로저가 변수 스코프와 상호 작용하는 방법을 알자   | 차민철  | [15강 정리본](./team1/BetterWay15-mincheol.md)  |
+| 16강. 리스트를 반환하는 대신 제너레이터를 고려하자   | 차민철  | [16강 정리본](./team1/BetterWay16-mincheol.md)  |
 | 17강. 인수를 순회할 때는 방어적으로 하자   | 박민호  | [17강 정리본](./team1/python_code/betterway17_minhopark.ipynb)  |
 | 18강. 가변 위치 인수로 깔끔하게 보이게 하자   | 박민호  | [18강 정리본](./team1/python_code/betterway18_minhopark.ipynb)  |
 | 19강. 키워드 인수로 선택적인 동작을 제공하자   | 박민호  | [19강 정리본](./team1/python_code/betterway19_minhopark.ipynb)  |
