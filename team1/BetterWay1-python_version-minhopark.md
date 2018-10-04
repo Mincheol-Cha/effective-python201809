@@ -9,6 +9,7 @@ Python 2.7.8
 
 * 파이썬3은 보통 python3으로 실행
 
+
 ```bash
 $ python3 --version
 Python 3.5.2
